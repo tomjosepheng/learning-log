@@ -1,2 +1,2 @@
 # learning-log
-Tracking my journey in embedded system and iot
+A comprehensive log of my engineering journey, documenting experiments in Embedded C, Circuit Design, and ECE fundamentals
